@@ -1,8 +1,92 @@
+amor (4:14.11.90-0ubuntu1) vivid; urgency=medium
+
+  * Initial release for KDE applications 14.12 series 
+    - Install the manpage properly.
+    - Add not installed for /usr/bin/amor and manpage with notes
+      that they are actually installed.
+  * Debian merge, no remaining changes.
+
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 18 Nov 2014 21:47:04 +0000
+
+amor (4:4.14.2-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 10 Oct 2014 02:27:31 -0700
+
+amor (4:4.14.1-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 22 Sep 2014 16:18:15 +0200
+
+amor (4:4.14.0-0ubuntu1) utopic; urgency=medium
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 20 Aug 2014 12:24:13 +0200
+
+amor (4:4.13.97-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release RC
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Fri, 01 Aug 2014 16:00:31 +0200
+
+amor (4:4.13.95-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 30 Jul 2014 17:17:19 +0200
+
+amor (4:4.13.90-0ubuntu1) utopic; urgency=medium
+
+  * New upstream beta release
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Thu, 24 Jul 2014 17:14:51 +0200
+
 amor (4:4.13.3-1) unstable; urgency=medium
 
   * New upstream release.
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 22 Jul 2014 10:58:21 +0200
+
+amor (4:4.13.2-0ubuntu1) utopic; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Jun 2014 11:31:50 +0100
+
+amor (4:4.13.0-0ubuntu3) utopic; urgency=medium
+
+  * Debian merge, no remaining changes.
+
+ -- Scarlett Clark <scarlett@scarlettgatelyclark.com>  Wed, 14 May 2014 06:19:51 -0700
+
+amor (4:4.13.0-0ubuntu1) trusty; urgency=medium
+
+  * New upstream KDE Software Compilation release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Thu, 10 Apr 2014 21:31:21 +0100
+
+amor (4:4.12.97-0ubuntu1) trusty; urgency=medium
+
+  * New upstream release candidate
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Wed, 02 Apr 2014 11:02:43 +0200
+
+amor (4:4.12.95-0ubuntu1) trusty; urgency=medium
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sun, 23 Mar 2014 11:50:07 +0100
+
+amor (4:4.12.90-0ubuntu1) trusty; urgency=medium
+
+  [ Jonathan Riddell ]
+  * New upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 19 Mar 2014 10:28:52 +0000
 
 amor (4:4.12.4-1) unstable; urgency=medium
 
@@ -17,6 +101,48 @@ amor (4:4.12.3-1) experimental; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 04 Mar 2014 00:05:58 +0100
 
+amor (4:4.12.3-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 04 Mar 2014 20:22:28 +0100
+
+amor (4:4.12.2-0ubuntu1) trusty; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Tue, 04 Feb 2014 23:31:27 +0000
+
+amor (4:4.12.1-0ubuntu1) trusty; urgency=low
+
+  * New upstream bugfix release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Thu, 16 Jan 2014 07:52:16 +0000
+
+amor (4:4.12.0-0ubuntu1) trusty; urgency=low
+
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Wed, 18 Dec 2013 16:18:09 +0000
+
+amor (4:4.11.97-0ubuntu1) trusty; urgency=low
+
+  * New upstream RC release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 29 Nov 2013 12:24:19 +0000
+
+amor (4:4.11.95-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Mon, 25 Nov 2013 17:35:22 +0100
+
+amor (4:4.11.80-0ubuntu1) trusty; urgency=low
+
+  * New upstream beta release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Sat, 23 Nov 2013 17:23:24 +0100
+
 amor (4:4.11.3-1) unstable; urgency=low
 
   * New upstream release.
@@ -29,3 +155,59 @@ amor (4:4.11.2-1) experimental; urgency=low
   * First release of kdetoys after being split by upstream.
 
  -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Oct 2013 12:23:32 +0200
+
+amor (4:4.11.2-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 30 Sep 2013 13:53:14 +0100
+
+amor (4:4.11.1-0ubuntu1) saucy; urgency=low
+
+  * New upstream bugfix release.
+
+ -- Howard Chan <smartboyhw@gmail.com>  Fri, 06 Sep 2013 22:02:01 +0100
+
+amor (4:4.11.0-0ubuntu1) saucy; urgency=low
+
+  [ Howard Chan ]
+  * New upstream release
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 13 Aug 2013 23:52:53 +0100
+
+amor (4:4.10.97-0ubuntu1) saucy; urgency=low
+
+  * RC 2
+  * New upstream RC 2 release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 26 Jul 2013 18:45:34 +0100
+
+amor (4:4.10.95-0ubuntu1) saucy; urgency=low
+
+  * New upstream RC release
+
+ -- Rohan Garg <rohangarg@kubuntu.org>  Fri, 19 Jul 2013 12:31:33 +0000
+
+amor (4:4.10.90-0ubuntu1) saucy; urgency=low
+
+  * New upstream bet release
+
+ -- Michał Zając <quintasan@kubuntu.org>  Fri, 28 Jun 2013 17:55:55 +0100
+
+amor (4:4.10.80-0ubuntu2) saucy; urgency=low
+
+  * Add build-dep on libxext-dev
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 25 Jun 2013 14:13:04 +0100
+
+amor (4:4.10.80-0ubuntu1) saucy; urgency=low
+
+  * New upstream release
+  * Initial package, split from kdetoys
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 21 Jun 2013 02:25:49 +0100
+

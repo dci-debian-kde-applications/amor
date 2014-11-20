@@ -1,0 +1,4 @@
+# installed to usr/games
+./usr/bin/amor
+#installed by dh_manpages
+./usr/share/man/man6/amor.6
