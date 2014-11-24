@@ -1,3 +1,10 @@
+amor (4:14.11.95-0ubuntu1) vivid; urgency=medium
+
+  * New upstream Release candidate.
+  * Fix VCS entries to reflect new git location. 
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 24 Nov 2014 07:06:22 -0800
+
 amor (4:14.11.90-0ubuntu1) vivid; urgency=medium
 
   * Initial release for KDE applications 14.12 series 
