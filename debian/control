@@ -24,7 +24,7 @@ Architecture: any
 Section: games
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: kde-window-manager
-Suggests: khelpcenter
+Suggests: khelpcenter4
 Description: desktop companion
  AMOR, or Amusing Misuse Of Resources, displays an animated character who
  wanders about the screen, doing tricks and giving the occasional hint.
