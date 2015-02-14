@@ -27,14 +27,14 @@ amor (4:14.11.97-0ubuntu1) vivid; urgency=medium
 amor (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
   * New upstream Release candidate.
-  * Fix VCS entries to reflect new git location. 
+  * Fix VCS entries to reflect new git location.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Mon, 24 Nov 2014 07:06:22 -0800
 
 
 amor (4:14.11.90-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
     - Install the manpage properly.
     - Add not installed for /usr/bin/amor and manpage with notes
       that they are actually installed.
@@ -244,4 +244,3 @@ amor (4:4.10.80-0ubuntu1) saucy; urgency=low
   * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Fri, 21 Jun 2013 02:25:49 +0100
-
