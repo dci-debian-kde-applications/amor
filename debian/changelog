@@ -1,3 +1,9 @@
+amor (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 14 Feb 2015 20:11:02 +0100
+
 amor (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
