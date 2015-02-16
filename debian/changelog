@@ -1,6 +1,6 @@
 amor (4:14.12.2-1~) UNRELEASED; urgency=medium
 
-  * New upstream release.
+  * Prepare Debian release.
   * Bump Standards-Version to 3.9.6, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 14 Feb 2015 20:11:02 +0100
