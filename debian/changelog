@@ -1,7 +1,7 @@
 amor (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
-  * New upstream release
+  * Fix kdelibs depend version 
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 13 May 2015 20:51:03 -0700
 
