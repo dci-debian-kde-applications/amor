@@ -1,8 +1,9 @@
-amor (4:15.04.0-0ubuntu1) UNRELEASED; urgency=medium
+amor (4:15.08.1-0ubuntu1) UNRELEASED; urgency=medium
 
   * New upstream release
+  * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 15 Apr 2015 14:02:46 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 09:06:11 -0700
 
 amor (4:14.12.3-0ubuntu2) vivid; urgency=medium
 
